@@ -48,3 +48,6 @@ Steps: Search for yourself, copy the URL of the profile, and email removals@rada
 
 https://www.intelius.com/opt-out/submit/ 
     Follow instructions
+
+
+Once you have done the above, i recommend you going through the workbook in the repo as this provides a slew of other useful sites to scrape your information from. 
